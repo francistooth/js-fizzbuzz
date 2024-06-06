@@ -16,23 +16,29 @@
     background-color: #083b4c;
 }
 
-.card {
-    width: 100px;
-    background-color: #1389b2;
+.align-center-div {
+    vertical-align: middle;
 }
 
-.number-bg {
-    background-color: #1389b2;
+.card {
+    width: 100px;
+    height: 100px!important;
+    line-height: 100px!important;
+    margin: 12px;
+}
+
+.number {
+    background-color: #1389b2!important;
 }
 
 .fizz {
-    background-color: #0cd6a1;
+    background-color: #0cd6a1!important;
 }
 
 .buzz {
-    background-color: #ffd166;
+    background-color: #ffd166!important;
 }
 
 .fizzbuzz {
-    background-color: #f0466f;
+    background-color: #f0466f!important;
 }
