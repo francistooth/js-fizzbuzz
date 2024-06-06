@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+/* colors */
+
+.color-white {
+    color: white;
+    font-size: 5em;
+    font-weight: bold;
+}
+
+/* backgrounds */
+
+.bg-blue {
+    background-color: #083b4c;
+}
+
+.card {
+    
+}
+
+.number-bg {
+    background-color: #1389b2;
+}
+
+.fizz {
+    background-color: #0cd6a1;
+}
+
+.buzz {
+    background-color: #ffd166;
+}
+
+.fizzbuzz {
+    background-color: #f0466f;
+}
