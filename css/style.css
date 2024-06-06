@@ -17,7 +17,8 @@
 }
 
 .card {
-    
+    width: 100px;
+    background-color: #1389b2;
 }
 
 .number-bg {
